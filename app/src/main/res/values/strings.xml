@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeworkOne</string>
+    <string name="motaz_nammora">motaz nammora</string>
+    <string name="please_enter_the_first_name">Please Enter The First Name:</string>
+    <string name="please_enter_the_last_name">Please Enter The Last Name:</string>
+    <string name="please_enter_the_age">Please Enter The Age:</string>
+    <string name="please_enter_the_nationality">Please enter The Nationality</string>
+    <string name="please_enter_the_passwad">Please Enter The Passwad:</string>
+</resources>
